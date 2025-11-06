@@ -107,3 +107,4 @@ Start your development server:
 npm start
 ```
 Your API will be available at `http://localhost:3000`
+PUBLIC POSTMAN COLLECTION: https://documenter.getpostman.com/view/49866931/2sB3WsMyin
